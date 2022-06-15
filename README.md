@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-[Live Demo Click Here 🚀🚀](https://mrstudio-350e1.web.app/)
+[Live Demo Click Here 🚀🚀](https://batterystats-6bb4e.web.app)
 
 ## Available Scripts
 
